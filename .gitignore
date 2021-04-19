@@ -1,0 +1,18 @@
+node_modules/
+*.log
+yarn.lock
+public
+dist
+
+# Jest
+.jest/
+coverage/
+
+# Visual Studio Code
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+
+### OpenShift Deployments
+/deployments
