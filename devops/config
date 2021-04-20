@@ -1,5 +1,6 @@
 DEFAULT_PROJECT=alf-static-p
 TARGETS=(
   "master"
-  "develop"
+  "dev"
+  "develop-release"
 )
